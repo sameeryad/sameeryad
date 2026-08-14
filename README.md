@@ -11,7 +11,7 @@ ML/AI, Full-Stack and open-source projects.
 
 Building and deploying production-ready ML and Full-Stack applications.
 
-🌱 I’m currently learning
+🌱 I’m currently learning 
 
 Deep Learning, NLP, MLOps, Cloud Deployment and advanced Full-Stack development.
 
