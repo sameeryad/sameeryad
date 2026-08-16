@@ -1,6 +1,127 @@
-# 💫 About Me:
-🔭 I'm currently working on<br><br>Machine Learning, Deep Learning, MLOps and Full-Stack projects.<br><br>🧑‍🤝‍🧑 I'm looking to collaborate on<br><br>ML/AI, Full-Stack and open-source projects.<br><br>🤝 I'm looking for help with<br><br>Building and deploying production-ready ML and Full-Stack applications.<br><br>🌱 I'm currently learning<br><br>Deep Learning, NLP, MLOps, Cloud Deployment and advanced Full-Stack development.<br><br>💬 Ask me about<br><br>Python, Machine Learning, MLOps, Full-Stack Development and Web Development.<br>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Sameer+Yadav+%F0%9F%91%8B;Machine+Learning+%7C+MLOps+%7C+Full-Stack;Building+AI+%26+Production-Ready+Systems+%F0%9F%9A%80" />
+</p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216656978-7f3f5b4c-0c6f-4b3b-8c7b-4c9c5e6d3f5f.gif" width="400">
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=flat&logo=Jellyfin&logoColor=00A4DC) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=header"/>
+</p>
+
+# 👋 Hey, I'm Sameer Yadav
+
+### 🤖 ML Engineer • Full-Stack Developer • MLOps Enthusiast
+
+I build **machine learning systems, full-stack applications, and production-ready ML workflows**.
+
+Currently focused on turning ML ideas into practical applications while learning deeper concepts in **MLOps, Deep Learning, NLP, and Cloud**.
+
+---
+
+## 🧑‍💻 About Me
+
+* 🎓 B.Tech CSE — Data Science
+* 🤖 Interested in **Machine Learning & AI**
+* ⚙️ Building **MLOps and production ML pipelines**
+* 🌐 Developing **Full-Stack applications**
+* 🐍 Strongly focused on **Python**
+* 📚 Currently learning **Deep Learning, NLP, MLOps & Cloud**
+* 🚀 Interested in building real-world AI products
+* 🤝 Open to collaborating on **ML, AI & Full-Stack projects**
+
+---
+
+## 🛠️ Tech Stack
+
+### 🧠 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy" />
+</p>
+
+### ⚙️ MLOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,githubactions" />
+</p>
+
+### 🌐 Full-Stack Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,javascript,nodejs,express,fastapi,tailwind" />
+</p>
+
+### 🗄️ Databases & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,jupyter,vscode,postman" />
+</p>
+
+---
+
+## 🚀 What I'm Working On
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="350">
+</p>
+
+```text
+🤖 Machine Learning        █████████░░  Learning & Building
+🧠 Deep Learning           ███████░░░░  Learning
+⚙️ MLOps                   ████████░░░  Building
+🌐 Full-Stack Development  █████████░░  Building
+☁️ Cloud                   ██████░░░░░  Learning
+```
+
+---
+
+## 📌 Featured Projects
+
+> 🚧 Projects are continuously being built and improved.
+
+| Project                    | Description                                                     |
+| -------------------------- | --------------------------------------------------------------- |
+| 🤖 **ML Projects**         | Machine learning projects focused on real-world datasets        |
+| ⚙️ **MLOps Projects**      | End-to-end ML pipelines with reproducibility and automation     |
+| 🌐 **Full-Stack Projects** | Web applications using modern frontend and backend technologies |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sameeryad&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameeryad&theme=github-dark-blue&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sameeryad&theme=github-compact&hide_border=true" width="95%"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/sameeryad">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%92%99;Keep+building+%F0%9F%9A%80;Keep+learning+%F0%9F%A7%A0" />
+</p>
+
+<p align="center">
+  <i>Building. Learning. Improving. 🚀</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=100&section=footer"/>
+</p>
